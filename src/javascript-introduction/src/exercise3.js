@@ -10,7 +10,7 @@ function getNOD(first, second) {
   }
   return first || second;
 }
-
+console.log('Exercise 03');
 console.log('3,6 -', getNOD(3, 6));
 console.log('0,2-', getNOD(0, 2));
 console.log('5,5 -', getNOD(5, 5));

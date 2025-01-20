@@ -6,7 +6,7 @@ function range(start, end) {
   }
   return result;
 }
-
+console.log('Exercise 01');
 console.log(range(0,5));
 console.log(range(3,3));
 console.log(range(8,0));

@@ -12,7 +12,7 @@ function getNumbersIdBySum(arrayOfNumbers, sum) {
   });
   return result;
 }
-
+console.log('Exercise 02');
 console.log(getNumbersIdBySum([1, 2, 3, 4, 5], 6));
 console.log(getNumbersIdBySum([1, 0, 5], 2));
 console.log(getNumbersIdBySum([1, 0], 1));
